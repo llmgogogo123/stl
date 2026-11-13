@@ -1,0 +1,7 @@
+build/
+*.o
+a.out
+tmpl
+raw
+grow_test
+count_test
