@@ -5,3 +5,15 @@ tmpl
 raw
 grow_test
 count_test
+copy_move_test
+hash
+hash_erase_test
+hash_fuzz_test
+hash_insert_test
+hash_rehash_test
+hash_smoke
+hash_string_test
+interface_test
+vector_fuzz_test
+bench/bench_map
+bench/pool
